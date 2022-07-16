@@ -1,0 +1,50 @@
+$ls->shows the files in the current directory
+
+$cd filename->changes directory
+
+$mkdir filename->helps make new directory
+
+$cd - ->go back to previous directory
+
+$git init->initializes git repository
+
+$ls -a ->shows hidden files like .git,..,.
+
+$touch filename->helps create a new file eg touch names.txt
+
+$git status->tells us if the changes made are public or not 
+
+#untracked files means those files whose photo is not taken 
+
+$git add .-> stages all the files that are untracked/red and stages them 
+    
+$git add filename -> stages the particular file 
+
+$git commit -m "any message" ->commits/clicks the photo
+
+$vi filename->opens vim so that we can add data to files
+
+$cat names.txt->displays the information inside the file names.txt
+
+$git restore --stagged names.txt ->TO unstage the file that is staged
+
+$git log ->to see the log of the commits made with time and date 
+
+$rm -rf names.txt-> removes file names.txt
+
+$git reset (#hash_id)->it removes all the commits done after this commit and resets back to this commit
+
+$git stash -> stashing area
+
+$git stash pop ->come out of stash 
+
+$git stash clear ->stashing area cleared
+
+$git remote add origin URL ->URL = url of the github repository
+
+$git remote -v
+
+$git push origin master
+
+
+

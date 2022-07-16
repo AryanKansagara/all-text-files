@@ -1,0 +1,15 @@
+basic maths:
+    Modular Exponentiation
+    Modular multiplicative inverse
+    Primality Test | Set 2 (Fermat Method)
+    Euler’s Totient Function
+    Sieve of Eratosthenes
+    Convex Hull
+    Basic and Extended Euclidean algorithms
+    Segmented Sieve
+    Chinese remainder theorem
+    Lucas Theorem
+
+
+    Analysis of Algorithms
+    Combinatorial Game Theory | Set 1 (Introduction)
